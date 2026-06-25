@@ -29,3 +29,4 @@ After comparing pre-tournament betting odds against actual World Cup 2026 group-
 **Biggest underperformer:** Portugal showed the largest negative rank_gap — entering as one of the more fancied teams by pre-tournament odds, their group-stage results so far have fallen well short of that expectation.
 
 **Overall pattern:** Several mid-tier underdogs (Mexico, USA, Switzerland, Austria) outperformed their odds, while a few traditional favorites (Portugal, Belgium, France, England) underperformed relative to where the market ranked them. This suggests pre-tournament odds — while a reasonable predictor for the very top favorites (Spain, Argentina stayed close to their expected rank) — can be a weaker signal for mid-table and lower-rated teams once real matches are played.
+![Rank gap chart](excel/chart.jpg)
